@@ -1,0 +1,197 @@
+
+
+
+	equals     Java       == 
+
+	Object Super 
+	public boolean equals(Object o)
+
+		RTTI 
+	instanceof  -  Run Time Type Identification of Ref  
+
+--------------------------
+	DS   java 
+
+	Problem Statement  ->   Soln  ->    language 
+
+Lecture  ---------------    Therotical Soln  --- >    Java 
+
+
+	Practical Soln - Implementation 
+
+
+	Input 
+
+	Tech Number    --- 
+				Thought  /  language 
+
+		accpet data  ---    String   -- length  ===  even odd 
+
+				equal length divide 
+
+			         int   / %
+
+			  String  --- split  0  2 
+
+			char c[ ] =  s.toCharArray()
+
+
+---------------- solution 
+
+A   10 
+
+B   15                         logical 
+
+Input      Processing Instrution      output 
+
+String 
+int 
+
+------------------------ Google   Code 
+
+Assignment   --- Complete  ---   understanding 
+
+Think  -  Problem , Thought 
+Discuss  -    explaination tech 
+Implement  Lab             Synatx , Logical Thinking  -   Build Logic 
+
+Interview    Problem Statement    2 hrs 
+5 min 
+Therotical   - any language 
+
+   Practical    java 
+
+Lab  -   Open Lab 
+
+------------------------------------------------
+
+		Data Structure  --- way to store perform 
+
+
+	Data    --  Primitive    Non Primitive 
+IT  
+Data -- read Data             Store Data                  Object 
+
+				File , Database  SQL , NO SQL 
+
+Data 
+
+	 Read   start end 
+
+	Search               Time 
+
+		sort      ----------------------- 
+
+		Random  --  Time 
+
+	update 
+
+	delete 
+
+
+sort   ------------- Array    ----- same type , continus , size fixed 
+
+	45	78	12	45	89
+i = 
+
+	compare	iterate  - for    2 values 
+
+		for (int i  ) iterate 
+		{
+			for ( int j = i +1
+
+			a[i] > a[j] 
+
+		}
+
+
+
+
+	int arr[ ] = new int[5];
+	sort   compare           position 
+
+sort   --  time consumption 
+
+
+Data Structure   -----  Array  -  Linear  -  Static size given 
+
+	compare 
+	Linear   -  Sort , Search  ---- one by one 
+
+	Length  === 100    10   Memory  ----------- 400 bytes  conti
+		100     150 change size run time 
+
+	delete  ---- 5 size 
+
+		index 2  = 
+	  1 element empty  = 0 
+
+	45	78	12	45	89
+	45	78	0	45	89
+
+	// 
+		a[2] = a[3]
+		a[3] = a[4] ; 
+		a[4] = 0 ;
+		
+
+
+	45	78	45	89	0
+
+	insertArray Elements  -- -int data , int pos 
+
+		48 , 3
+	45	78	45	89	0
+
+	45	78	45	48	0	
+
+	45	78	45	48	89
+	0	1	2	
+
+
+------------------- Dynamic  Data Structer  ---- Size is not fixed  -  
+
+	Linked List 
+	
+		Single , Doubly , Circular 
+
+	Stack 
+
+	Queue 
+
+
+
+------------ 
+
+	Tree 
+	Graphs 
+
+	
+
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

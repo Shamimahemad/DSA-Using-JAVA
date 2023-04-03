@@ -1,0 +1,38 @@
+Assignment 1  - take int array with 10 elements 
+		and perform below operation 
+
+		1) insert data with index
+		2) delete data with index and empty elements should be end 
+		3)  sort array with ascending  and descending with 2 functions
+		4)  sort array with ascending  and descending with 1 functions
+
+  1)  create class Employee 
+
+	int id 
+	float sal 
+	String first name , last name 
+
+	** id need to generate with static variable 
+
+		1) write Default Construtor 
+		2) 3 parameters constructor  -  first name , last name , sal 
+		3) toString method
+		4) equals method 
+
+	
+
+
+   2) create EmployeeService 	Class 
+	should contain array of Employee with 10 Elements 
+	include below functionalities 
+
+		1) Create Employee  
+		2) display Employee Data 
+		3) sortEmployee depend on sal 
+		4) sortEmployee depend on firstname
+		5) sortEmployee depend on lastname 
+		6) Delete Employee by id  switch remaining elements to left
+		
+		
+
+		
