@@ -1,0 +1,27 @@
+
+Accept number and apply logic on that 
+
+1) Sunny Number  ----  number ,   number +1 -  sqrt 
+
+	number  = 80
+	temp = number + 1   // 81
+	 check temp is perfect sqaure or not 
+	if it is perfect square then given number is sunny number  
+
+2) Tech Number 
+ A number is called a tech number if the given number has an even number of digits and 
+the number can be divided exactly into two parts from the middle. After equally dividing 
+the number, sum up the numbers and find the square of the sum.
+ If we get the number itself as square, the given number is a tech 
+number, else, not a tech number. For example, 2025 is a tech number.
+
+	   2025
+	20     25
+	20+25 = 45   . sqaure of 45 is 2025 then it is Tech Number 
+
+3) Neon Number  - number is equals with square digits sum then it is Neon Number
+	number  - square  -  sum of digits 
+
+	9     81 8+1 
+
+

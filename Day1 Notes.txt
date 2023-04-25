@@ -1,0 +1,165 @@
+
+
+	COP 
+
+
+	2D ARRAY
+
+
+	Team  -  5 Members 
+
+	String Format  -- JAVA DOC 
+	1 Dev       2 Dev 
+	Employee       		    Student 
+	showData();                     showData();
+	display()
+	printData()
+	printDetails()
+	
+	constant  - final 
+	Account  -  displayInfo    // showData 
+		
+		Account a = new Account();
+	
+		//a.showData(); // Method call
+		
+		s.o.p(a);   --- Account@12367   // hashcode // memory location 
+
+			toString
+	id     name balance 
+		int i  = 23 ; 
+		s.o.p(i);   // 23  
+
+
+	toString()   --- Object  String format 
+
+
+----------------------------------
+
+	Variables 
+
+
+	Primitive  --  Non Primitive 
+
+	int     i   j            String  , Account    id name balance 
+
+	i = 10 ;		String s1 = "hello";   String s2 = "hello2";
+equality 			s1  == s2   // false 
+	i == j		Account a1 ,   a2 ; 
+			new  -  parameterised data 
+
+			a1  == a2    hashcode false 
+
+			equality 
+
+			Method 
+
+			a1.id == a2.id          a1.balance == a2.balance 
+
+				a1.name.equals(a2.name)
+
+
+
+
+---------------------------------------
+
+	2d Array Addition Mu   --- rows cols 
+patterns 
+	col    
+rows	*  *  *  *  *
+	*  *  *  *
+	*  *  * 
+	*  *
+	*
+
+
+-------------------------------------------------------
+Programming 
+		IT    -- Dev  / prog  Client     result 100 %
+cdac  --- when we 
+				iNPUT         time                      Output 
+
+				Data 	code      Output 
+	cdac   -- Documents 2   -   search  time    
+
+
+	Manual Process   ------  Application  ---- SYSTEM 
+
+Manual      Time Con  - 
+	scenario  / Problem    -- situation where we are stuck 
+
+	Problem   --   Solution   --- 4 2 
+
+		step by step 
+
+	think  -     Soln 
+
+
+	Solution  - Google 
+
+interview   -  paper pen  -- thought process soln 
+
+ ------ in one go 
+
+	--- steps to solve  - Paper  ---  Therotical  ----------------- Program
+
+	C System Langugae     java OOP
+	Thought   ------- Program System 
+
+
+
+			Data Structre    search , delete , display 
+
+	Input 	
+		Application   / process    -  Soln  Google  , Discuss , Debug 
+	  Output    end user 
+
+// addition     same 
+	[  ] + [ ] = [ ]  ///   alternate 
+
+	[  ]
+
+	[  ]
+
+ [   ]
+
+
+	
+
+
+--------------
+	varaible 
+
+	multiple values   Array 
+
+
+
+------- 
+
+1) 
+Therotical  --------------------   Lab 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

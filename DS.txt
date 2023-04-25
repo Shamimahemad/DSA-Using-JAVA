@@ -1,0 +1,39 @@
+Problem Solving  -  Problem 
+
+Once we know the situation then we need to think on soluntion 
+
+1) Practise 
+2)  Google 
+3) Discuss with Friend
+4) Pair 
+5) debug 
+6) Open Mind 
+
+once you understand problem statement then we 
+
+
+
+
+1) Sunny Number  ----  number ,   number +1 -  sqrt 
+
+	80 ---- 81  -  9 
+
+2) Tech Number 
+A number is called a tech number if the given number has an even number
+ of digits and the number can be divided exactly into two parts from the middle. 
+After equally dividing the number, sum up the numbers and find the square of the sum.
+ If we get the number itself as square, the given number is a tech number, else, not a tech number.
+ For example, 2025 is a tech number.
+
+	2025
+20     25
+20+25 = 45 
+
+3) Neon Number 
+	number  - square  -  sum of digits 
+
+	9     81 8+1 
+
+
+
+

@@ -1,0 +1,24 @@
+
+
+1) Accpet the Data for 2 array with dimesion 3 3 
+
+	int arr1[ ] [ ] = new int [3][3];
+	int arr2[ ] [ ] = new int [3][3];
+
+     perform addition and store in array with name arr3
+
+and display all three array like below 
+
+	1  2  3              3 2 1		4   4  4
+	4  5  6       +      6 5 4       =      10  10 10
+	7  8  9              9 8 7		16   16  16
+
+2) Accept Data for 2 array with dimesion [2] [2]
+
+	and perform Multiplication and display output 
+
+3) calculate circle area , use final variable pi 
+
+4) explore String class format method 
+
+	
