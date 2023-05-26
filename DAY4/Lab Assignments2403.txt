@@ -1,0 +1,34 @@
+
+	Note : Use Eclipse Now onwards for Lab 
+
+1) Create class Student 
+
+	with 3 variables of int  to accept marks 
+	name
+
+	method to calculate percentage and display grade of Student 
+
+	--add var args constrctor 
+
+2) Create class Employee 
+	
+	int empId;
+	float basicSal;
+	String firstName , lastName;
+
+	write 1) default Construtor 
+	          2)  parametrised Construtor with 2 , 4 parameters
+	         3) add to generate employeeId with static variable 
+
+	Write AcceptData and ShowData Methods 
+	
+	Create Employee Object and call methods
+
+3) Create class Addition
+	
+	write add method to accept data with varargs , and enhance forloop
+		
+
+4) do demo for static and instance block 
+
+5) do demo  for static and instance method

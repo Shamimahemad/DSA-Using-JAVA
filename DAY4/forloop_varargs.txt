@@ -1,0 +1,94 @@
+
+
+	Constructor / Method  Overloading  ---- Polymorphism 
+	
+		Static  / Compile time Polymor --- return 
+
+	Overload - 
+	1) multiple methods with same name in same class 
+		 but different in signature of methods 
+	2) Signature  -  no of arguments 
+		        data type of arguments 
+		        sequence of arguments 
+
+	never check return type 
+
+
+void add(int  i , int j)   , void add (int i , float f) , void add ( float f , int i )
+
+
+void add(int  i , int j) , int add(int  i , int j)
+
+-------------------------------------------------------------
+
+	perform addition    int   2 - 10   basic   n
+	dev    testing  --------------------   client       n change 
+	int add(int  i , int j) 2 
+	int add(int  i , int j , int k )  3
+	int add(int  i , int j , int  k , int l )   4
+	int add(int  i , int j)
+
+
+///   int i[ ]  // array  same type , length 
+	same data type , n numbers  // 0      n 
+
+	Varargs    - variable arguments  -----  java 1.5   interview 
+
+	int add     (int...i)  (tripple dot -- ellipses )  // 0 -- n
+
+	 add all elements   , start to end 
+
+for(int s = 0 ; s < i.length ; s ++ )
+for(int s = 0 ; s > i.length ; s ++ )   3 things    Logical 
+for ( ; ; ) // infinite 
+	
+	50 , 0  - 49 index 
+	---- for each loop 
+public void add(int...i)  /// array even index 0 2 4 
+
+	for(int s = 0 ; s < i.length ; s =s +2 ) {	forward back 		
+		sum = sum + i[s] ; 
+		i[s] = i[s] * 2 ;	
+	
+		}
+AIM 
+for each loop   --   1.5 
+	-  readonly 
+	- forward direction 
+
+String , int 
+// collection 
+public void add(int...i) {
+	for(int w   : i )
+	{
+		sum = sum + w ; 
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
